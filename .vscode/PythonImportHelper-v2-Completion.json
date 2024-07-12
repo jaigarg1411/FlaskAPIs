@@ -1,0 +1,762 @@
+[
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectAlreadyExist",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectAlreadyExist",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "isExtraImport": true,
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "db.dbConn",
+        "description": "db.dbConn",
+        "isExtraImport": true,
+        "detail": "db.dbConn",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "db.dbConn",
+        "description": "db.dbConn",
+        "isExtraImport": true,
+        "detail": "db.dbConn",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "ItemDatabase",
+        "importPath": "db.itemDB",
+        "description": "db.itemDB",
+        "isExtraImport": true,
+        "detail": "db.itemDB",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "ItemPostSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemPutSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemGetSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessMessageSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemQuerySchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPostSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessMessageSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserGetSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPostSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPutSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserQuerySchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDatabase",
+        "importPath": "db.usersDB",
+        "description": "db.usersDB",
+        "isExtraImport": true,
+        "detail": "db.usersDB",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDatabase",
+        "importPath": "db.usersDB",
+        "description": "db.usersDB",
+        "isExtraImport": true,
+        "detail": "db.usersDB",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDatabase",
+        "importPath": "db.usersDB",
+        "description": "db.usersDB",
+        "isExtraImport": true,
+        "detail": "db.usersDB",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "isExtraImport": true,
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "importPath": "resources.users",
+        "description": "resources.users",
+        "isExtraImport": true,
+        "detail": "resources.users",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "isExtraImport": true,
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "dbObj",
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "isExtraImport": true,
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "validates_schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "kind": 6,
+        "importPath": "db.dbConn",
+        "description": "db.dbConn",
+        "peekOfCode": "class Database:\n    _instance = None\n    def __new__(cls):\n        if cls._instance is None:\n            cls._instance = super(Database, cls).__new__(cls)\n            cls._instance.initialize_connection()\n        return cls._instance\n    def initialize_connection(self):\n        try:\n            self.conn = sqlite3.connect(\"./db/DB.db\", check_same_thread=False)",
+        "detail": "db.dbConn",
+        "documentation": {}
+    },
+    {
+        "label": "ItemDatabase",
+        "kind": 6,
+        "importPath": "db.itemDB",
+        "description": "db.itemDB",
+        "peekOfCode": "class ItemDatabase(Database):\n    def __init__(self):\n        super().__init__()\n    def getItems(self):\n        query = \"SELECT * FROM item\"\n        self.cursor.execute(query)\n        item_list = []\n        for row in self.cursor.fetchall():\n            item_dict = {}\n            item_dict[\"id\"], item_dict[\"name\"], item_dict[\"price\"] = row",
+        "detail": "db.itemDB",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDatabase",
+        "kind": 6,
+        "importPath": "db.usersDB",
+        "description": "db.usersDB",
+        "peekOfCode": "class UsersDatabase(Database):\n    def __init__(self):\n        super().__init__()\n    def getUsers(self):\n        query = \"SELECT id, username FROM users\"\n        self.cursor.execute(query)\n        user_list = [{\"id\": row[0], \"username\": row[1]} for row in self.cursor.fetchall()]\n        return user_list\n    def getUser(self, id):\n        query = \"SELECT id, username FROM users WHERE id = ?\"",
+        "detail": "db.usersDB",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "peekOfCode": "class Item(MethodView):\n    def __init__(self):\n        self.db = ItemDatabase()\n    @jwt_required()\n    @blp.response(200, ItemGetSchema(many=True))\n    def get(self):\n        id = request.args.get(\"id\")\n        if id is not None:\n            itemList = self.db.getItem(id)\n            if len(itemList) == 0:",
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "kind": 5,
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "peekOfCode": "blp = Blueprint(\"items\", __name__, description=\"Operations on items\")\noperatorMap = {\n    \"lt\": lambda a, b: a < b,\n    \"lte\": lambda a, b: a <= b,\n    \"gt\": lambda a, b: a > b,\n    \"gte\": lambda a, b: a >= b,\n    \"eq\": lambda a, b: a == b,\n    \"neq\": lambda a, b: a != b,\n}\n@blp.route(\"/item\")",
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "operatorMap",
+        "kind": 5,
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "peekOfCode": "operatorMap = {\n    \"lt\": lambda a, b: a < b,\n    \"lte\": lambda a, b: a <= b,\n    \"gt\": lambda a, b: a > b,\n    \"gte\": lambda a, b: a >= b,\n    \"eq\": lambda a, b: a == b,\n    \"neq\": lambda a, b: a != b,\n}\n@blp.route(\"/item\")\nclass Item(MethodView):",
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "loginUser",
+        "kind": 2,
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "peekOfCode": "def loginUser(req):\n    try:\n        token = dbObj.loginUser(req)\n        return {\"token\": token}, 200\n    except ObjectNotFound as o:\n        abort(401, message=\"Invalid credentials\")\n    except Exception as e:\n        abort(500, message=\"Error occured\")\n@blp.route(\"/logout\", methods=[\"POST\"])\n@jwt_required()",
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "loginUser",
+        "kind": 2,
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "peekOfCode": "def loginUser():\n    try:\n        dbObj.invalidateToken(get_jwt()[\"jti\"])\n        return {\"message\": \"Logged out sucessfully\"}, 200\n    except Exception as e:\n        abort(500, message=f\"Error occured: {e}\")",
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "kind": 5,
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "peekOfCode": "blp = Blueprint(\"login\", __name__, description=\"Login operation\")\ndbObj = UsersDatabase()\n@blp.route(\"/login\", methods=[\"POST\"])\n@blp.arguments(UserPostSchema)\ndef loginUser(req):\n    try:\n        token = dbObj.loginUser(req)\n        return {\"token\": token}, 200\n    except ObjectNotFound as o:\n        abort(401, message=\"Invalid credentials\")",
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "dbObj",
+        "kind": 5,
+        "importPath": "resources.login",
+        "description": "resources.login",
+        "peekOfCode": "dbObj = UsersDatabase()\n@blp.route(\"/login\", methods=[\"POST\"])\n@blp.arguments(UserPostSchema)\ndef loginUser(req):\n    try:\n        token = dbObj.loginUser(req)\n        return {\"token\": token}, 200\n    except ObjectNotFound as o:\n        abort(401, message=\"Invalid credentials\")\n    except Exception as e:",
+        "detail": "resources.login",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "resources.users",
+        "description": "resources.users",
+        "peekOfCode": "class User(MethodView):\n    def __init__(self):\n        self.db = UsersDatabase()\n    @jwt_required()\n    @blp.response(200, UserGetSchema(many=True))\n    def get(self):\n        try:\n            id = request.args.get(\"id\")\n            if id is not None:\n                user = self.db.getUser(id)",
+        "detail": "resources.users",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "kind": 5,
+        "importPath": "resources.users",
+        "description": "resources.users",
+        "peekOfCode": "blp = Blueprint(\"users\", __name__, description=\"Operations on users\")\ndbObj = UsersDatabase()\nblp = Blueprint(\"users\", __name__, description=\"Operations on users\")\n@blp.route(\"/user\")\nclass User(MethodView):\n    def __init__(self):\n        self.db = UsersDatabase()\n    @jwt_required()\n    @blp.response(200, UserGetSchema(many=True))\n    def get(self):",
+        "detail": "resources.users",
+        "documentation": {}
+    },
+    {
+        "label": "dbObj",
+        "kind": 5,
+        "importPath": "resources.users",
+        "description": "resources.users",
+        "peekOfCode": "dbObj = UsersDatabase()\nblp = Blueprint(\"users\", __name__, description=\"Operations on users\")\n@blp.route(\"/user\")\nclass User(MethodView):\n    def __init__(self):\n        self.db = UsersDatabase()\n    @jwt_required()\n    @blp.response(200, UserGetSchema(many=True))\n    def get(self):\n        try:",
+        "detail": "resources.users",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "kind": 5,
+        "importPath": "resources.users",
+        "description": "resources.users",
+        "peekOfCode": "blp = Blueprint(\"users\", __name__, description=\"Operations on users\")\n@blp.route(\"/user\")\nclass User(MethodView):\n    def __init__(self):\n        self.db = UsersDatabase()\n    @jwt_required()\n    @blp.response(200, UserGetSchema(many=True))\n    def get(self):\n        try:\n            id = request.args.get(\"id\")",
+        "detail": "resources.users",
+        "documentation": {}
+    },
+    {
+        "label": "checkIfTokenBlocked",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()\n@jwt.revoked_token_loader\ndef revokedTokenCallback(jwt_headers, jwt_payload):\n    return ({\"description\": \"User is logged out\", \"error\": \"Token revoked\"}, 401)\napi.register_blueprint(ItemBluePrint)\napi.register_blueprint(UsersBluePrint)\napi.register_blueprint(LoginBluePrint)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "revokedTokenCallback",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def revokedTokenCallback(jwt_headers, jwt_payload):\n    return ({\"description\": \"User is logged out\", \"error\": \"Token revoked\"}, 401)\napi.register_blueprint(ItemBluePrint)\napi.register_blueprint(UsersBluePrint)\napi.register_blueprint(LoginBluePrint)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.config[\"PROPAGATE_EXCEPTIONS\"] = True\napp.config[\"API_TITLE\"] = \"My REST API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"PROPAGATE_EXCEPTIONS\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"PROPAGATE_EXCEPTIONS\"] = True\napp.config[\"API_TITLE\"] = \"My REST API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My REST API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.0.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.0.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_URL_PREFIX\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_URL\"]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napp.config[\n    \"JWT_SECRET_KEY\"\n] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()\n@jwt.revoked_token_loader",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "]",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "] = \"1241691190210501596851087062392788145360316770048204292537070907917922206281\"\napi = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()\n@jwt.revoked_token_loader\ndef revokedTokenCallback(jwt_headers, jwt_payload):\n    return ({\"description\": \"User is logged out\", \"error\": \"Token revoked\"}, 401)\napi.register_blueprint(ItemBluePrint)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "api = Api(app)\njwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()\n@jwt.revoked_token_loader\ndef revokedTokenCallback(jwt_headers, jwt_payload):\n    return ({\"description\": \"User is logged out\", \"error\": \"Token revoked\"}, 401)\napi.register_blueprint(ItemBluePrint)\napi.register_blueprint(UsersBluePrint)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "jwt = JWTManager(app)\n@jwt.token_in_blocklist_loader\ndef checkIfTokenBlocked(jwt_headers, jwt_payload):\n    return jwt_payload[\"jti\"] in UsersDatabase().getBlockedTokenList()\n@jwt.revoked_token_loader\ndef revokedTokenCallback(jwt_headers, jwt_payload):\n    return ({\"description\": \"User is logged out\", \"error\": \"Token revoked\"}, 401)\napi.register_blueprint(ItemBluePrint)\napi.register_blueprint(UsersBluePrint)\napi.register_blueprint(LoginBluePrint)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectNotFound",
+        "kind": 6,
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "peekOfCode": "class ObjectNotFound(Exception):\n    def __init__(self, message=\"Object with specified id not found\"):\n        self.message = message\n        super().__init__(message)\nclass ObjectAlreadyExist(Exception):\n    def __init__(self, message=\"Object with specified id already exist\"):\n        self.message = message\n        super().__init__(message)",
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectAlreadyExist",
+        "kind": 6,
+        "importPath": "exceptions",
+        "description": "exceptions",
+        "peekOfCode": "class ObjectAlreadyExist(Exception):\n    def __init__(self, message=\"Object with specified id already exist\"):\n        self.message = message\n        super().__init__(message)",
+        "detail": "exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ItemPostSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ItemPostSchema(Schema):\n    name = fields.Str(required=True)\n    price = fields.Int(required=True)\nclass ItemPutSchema(Schema):\n    name = fields.Str()\n    price = fields.Int()\n    @validates_schema\n    def validate_name_or_price(self, data, **kwargs):\n        if not (data.get(\"name\") or data.get(\"price\")):\n            raise ValidationError(\"At least one of 'name' or 'price' is required.\")",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemPutSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ItemPutSchema(Schema):\n    name = fields.Str()\n    price = fields.Int()\n    @validates_schema\n    def validate_name_or_price(self, data, **kwargs):\n        if not (data.get(\"name\") or data.get(\"price\")):\n            raise ValidationError(\"At least one of 'name' or 'price' is required.\")\nclass ItemGetSchema(Schema):\n    name = fields.Str()\n    price = fields.Int()",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemGetSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ItemGetSchema(Schema):\n    name = fields.Str()\n    price = fields.Int()\n    id = fields.Int()\nclass SuccessMessageSchema(Schema):\n    message = fields.Str(dump_only=True)\nclass ItemQuerySchema(Schema):\n    id = fields.Str(required=True)\nclass UserPostSchema(Schema):\n    username = fields.Str(required=True)",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessMessageSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class SuccessMessageSchema(Schema):\n    message = fields.Str(dump_only=True)\nclass ItemQuerySchema(Schema):\n    id = fields.Str(required=True)\nclass UserPostSchema(Schema):\n    username = fields.Str(required=True)\n    password = fields.Str(required=True)\nclass UserPutSchema(Schema):\n    username = fields.Str()\n    password = fields.Str()",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemQuerySchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ItemQuerySchema(Schema):\n    id = fields.Str(required=True)\nclass UserPostSchema(Schema):\n    username = fields.Str(required=True)\n    password = fields.Str(required=True)\nclass UserPutSchema(Schema):\n    username = fields.Str()\n    password = fields.Str()\n    @validates_schema\n    def validate_username_or_password(self, data, **kwargs):",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPostSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class UserPostSchema(Schema):\n    username = fields.Str(required=True)\n    password = fields.Str(required=True)\nclass UserPutSchema(Schema):\n    username = fields.Str()\n    password = fields.Str()\n    @validates_schema\n    def validate_username_or_password(self, data, **kwargs):\n        if not (data.get(\"username\") or data.get(\"passsword\")):\n            raise ValidationError(",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPutSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class UserPutSchema(Schema):\n    username = fields.Str()\n    password = fields.Str()\n    @validates_schema\n    def validate_username_or_password(self, data, **kwargs):\n        if not (data.get(\"username\") or data.get(\"passsword\")):\n            raise ValidationError(\n                \"At least one of 'username' or 'password' is required.\"\n            )\nclass UserGetSchema(Schema):",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserGetSchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class UserGetSchema(Schema):\n    username = fields.Str()\n    password = fields.Str()\n    id = fields.Int()\nclass UserQuerySchema(Schema):\n    id = fields.Str(required=True)",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserQuerySchema",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class UserQuerySchema(Schema):\n    id = fields.Str(required=True)",
+        "detail": "schemas",
+        "documentation": {}
+    }
+]
